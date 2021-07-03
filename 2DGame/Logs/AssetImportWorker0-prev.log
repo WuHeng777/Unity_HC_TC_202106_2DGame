@@ -1,0 +1,143 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'zh' Physical Memory: 8117 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/HENGHUGO/Unity_2021_07_03P1/Unity_HC_TC_202106_2DGame/2DGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53113
+Successfully changed project path to: C:/HENGHUGO/Unity_2021_07_03P1/Unity_HC_TC_202106_2DGame/2DGame
+C:/HENGHUGO/Unity_2021_07_03P1/Unity_HC_TC_202106_2DGame/2DGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/HENGHUGO/Unity_2021_07_03P1/Unity_HC_TC_202106_2DGame/2DGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 (ID=0x1381)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003718 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.531 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2518.
+Total: 3.180900 ms (FindLiveObjects: 0.414900 ms CreateObjectMapping: 0.161800 ms MarkObjects: 2.522900 ms  DeleteObjects: 0.079300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/場景
+  artifactKey: Guid(912c8d2f2d863be40b06d951e2954bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景 using Guid(912c8d2f2d863be40b06d951e2954bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c030cc5463f1105cec6bc7942fa7c618') in 0.014958 seconds 
+  Import took 0.020348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484225 seconds.
+  path: Assets/場景/選單.unity
+  artifactKey: Guid(508fd8625bc960b419e0e183954c2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/選單.unity using Guid(508fd8625bc960b419e0e183954c2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ab4a133f95a1f7c2eff06e8af117ce') in 0.025678 seconds 
+  Import took 0.030115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 481.096417 seconds.
+  path: Assets/素材/Chunq.ttf
+  artifactKey: Guid(abe712aedaab41d47ab50cb261d20a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Chunq.ttf using Guid(abe712aedaab41d47ab50cb261d20a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a55821c050fb6ac8a120894f08e887') in 0.143657 seconds 
+  Import took 0.153954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/素材/選單背景.mat
+  artifactKey: Guid(ebea4f416720be44682bd162d0b6fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/選單背景.mat using Guid(ebea4f416720be44682bd162d0b6fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675d73b7b828d5f1c86a2b7dd08b2564') in 0.039723 seconds 
+  Import took 0.043967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.923322 seconds.
+  path: Assets/圖片/KID.png
+  artifactKey: Guid(7a3bbc1ec1464874aa9f7b333fa87fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/KID.png using Guid(7a3bbc1ec1464874aa9f7b333fa87fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16253ff01857678f3271bb1ee179f9ca') in 0.059730 seconds 
+  Import took 0.066233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.510120 seconds.
+  path: Assets/素材/光點.mat
+  artifactKey: Guid(93ec502e3bc3bb74d8800928fd3a8e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/光點.mat using Guid(93ec502e3bc3bb74d8800928fd3a8e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb79c3010966ec618c4dc750ce81d88') in 0.037840 seconds 
+  Import took 0.044258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.834027 seconds.
+  path: Assets/素材/New Project (1).jpg
+  artifactKey: Guid(5adc41a491a7ed4489c9599c2dfc29aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/New Project (1).jpg using Guid(5adc41a491a7ed4489c9599c2dfc29aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38411ad5e72468a249a24e41c560035') in 0.049921 seconds 
+  Import took 0.060874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2204.675378 seconds.
+  path: Assets/素材/光點.mat
+  artifactKey: Guid(93ec502e3bc3bb74d8800928fd3a8e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/光點.mat using Guid(93ec502e3bc3bb74d8800928fd3a8e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a70bac2532abec6f4fbdbaec72983a7') in 0.082589 seconds 
+  Import took 0.095075 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
